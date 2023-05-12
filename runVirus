@@ -1,0 +1,17 @@
+from notifications import *
+
+
+ip()
+
+x = 0
+
+
+   
+
+
+while x != 5:
+   virusClick()
+   sleep(1)
+   x += 1
+
+
